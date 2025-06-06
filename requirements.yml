@@ -1,0 +1,14 @@
+channles:
+  - conda-forge
+dependencies:
+  - requests
+  - yattag
+  - streamlit
+  - beautifulsoup4
+  - imutils
+  - Shapely
+  - opencv
+  - tensorflow
+  - tesserocr
+  - keras
+  - h5py==2.10.0
